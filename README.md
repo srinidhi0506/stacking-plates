@@ -48,9 +48,6 @@ python stackingplates.py
 - `leaderboard.txt` (optional to include; can be generated on run)
 - `.gitignore` (ignore venv, cache files)
 
-## README tips for GitHub page
-- Add 1-2 screenshots or a short GIF of gameplay.
-- Add short run instructions and a bullet list of key features (done above).
-- Add a LICENSE (MIT is fine for student projects).
+
 
 ---
