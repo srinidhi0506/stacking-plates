@@ -2,8 +2,6 @@
 
 A small arcade-style stacking plates game built with **Python** and **Pygame**.
 
-## Demo / Repo
-Add your GitHub repo link here after uploading (example: `https://github.com/srinidhi0506/stacking-plates`).
 
 ## Features
 - Multi-level gameplay with increasing difficulty (additional plates and stacks per level).
