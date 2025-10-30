@@ -1,6 +1,8 @@
 # Stacking Plates
 
-A small arcade-style stacking plates game built with **Python** and **Pygame**.
+A small arcade-style stacking plates game built with **Python** and **Pygame**.Stacking Plates is an interactive, logic-based puzzle game inspired by the classic ACM-ICPC “Stacking Plates” problem.
+The goal is to combine and sort stacks of plates using split and join operations, following stack-based principles — where only the topmost plate can be moved.
+The game challenges players to think strategically, manage time, and make optimal moves to form a single sorted stack before time runs out.
 
 
 ## Features
